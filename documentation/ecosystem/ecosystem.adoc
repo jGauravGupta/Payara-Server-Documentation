@@ -21,7 +21,7 @@ A plugin for using Payara is available for Eclipse.
 link:netbeans-plugin/README.adoc[Payara Apache NetBeans tools]::
 The tools for using Payara are available in the Apache NetBeans.
 
-link:vscode-extension/README.adoc[Payara VSCode Extension]::
+link:vscode-extension/README.adoc[Payara Visual Studio Code Extension]::
 An extension for using Payara is available for Visual Studio Code.
 
 link:cloud-connectors/README.adoc[Cloud Connectors]::
